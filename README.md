@@ -3,7 +3,7 @@
 ## 📒 Descrição
 Neste episódio, exploramos como a IA está tornando a Internet e as novas tecnologias mais acessíveis para pessoas com deficiência. Desde leitores de tela e assitentes de voz atélegendas automáticas, discutimos como essas inovações promovem uma experiência digital mais inclusiva e transformados par todos.
 
-- [Podcast](/exemplos/PODCAST.md)
+- [Podcast](/ElevenLabs_2024-11-12T20_17_25_Aria_pre_s50_sb75_se0_b_m2.mp3)
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
