@@ -3,9 +3,11 @@
 ## 📒 Descrição
 Neste episódio, exploramos como a IA está tornando a Internet e as novas tecnologias mais acessíveis para pessoas com deficiência. Desde leitores de tela e assitentes de voz atélegendas automáticas, discutimos como essas inovações promovem uma experiência digital mais inclusiva e transformados par todos.
 
+- [Podcast](/exemplos/PODCAST.md)
+
 ## 🤖 Tecnologias Utilizadas
-IA Generativa ChatGPT para roteirização e revisão;
-IA Generativa ElevenLabs para sintetização de voz;
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
+- IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para sintetização de voz;
 
 ## 🧐 Processo de Criação
 O "ChatGPT" foi utilizado para desenvolver o roteiro e a narrativa do podcast. O "ElevenLabs" ajudou a criar uma voz sintética para a narração.
